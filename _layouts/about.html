@@ -25,6 +25,8 @@ layout: default
             <div class="address">
               {{ page.profile.address }}
             </div>
+
+
             {%- endif %}
           </div>
           {%- endif %}
@@ -32,15 +34,27 @@ layout: default
           <div class="clearfix">
             {{ content }}
           </div>
+          <div><p>   </p><p>   </p></div>
 
-          {% if page.news -%}
-          <!-- News -->
-          {%- include news.html %}
-          {%- endif %}
-          {% if page.selected_papers -%}
-            <!-- Selected papers -->
-            {%- include selected_papers.html %}
-          {%- endif %}
+          <div class="row">
+
+            <div class="col-8">
+              {% if page.news -%}
+              <!-- News -->
+              {%- include news.html %}
+              {%- endif %}
+
+            </div>
+            <div class="col-4">
+              <a id="twitter" class="twitter-timeline" data-width="500" data-height="400" href="https://twitter.com/{{ site.twitter_username }}?ref_src=twsrc%5Etfw">Tweets by {{ site.twitter_username }}</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+            </div>
+          </div>
+          <div class="row">
+            {% if page.selected_papers -%}
+              <!-- Selected papers -->
+              {%- include selected_papers.html %}
+            {%- endif %}
+          </div>
           {%- if page.social %}
           <!-- Social -->
           <div class="social">
@@ -56,4 +70,4 @@ layout: default
           {%- endif %}
         </article>
 
-</div>
+      </div>

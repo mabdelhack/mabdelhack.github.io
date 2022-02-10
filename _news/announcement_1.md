@@ -1,7 +1,7 @@
 ---
 layout: post
-date: 2015-10-22 15:59:00-0400
+date: 2021-12-06
 inline: true
 ---
 
-A simple inline announcement.
+I was selected as a teaching assistant for <a href='https://imbizo.africa/'>isiCNI 2022</a>

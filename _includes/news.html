@@ -2,7 +2,7 @@
           <div class="news">
             <h2>news</h2>
             {% if site.news  -%} 
-            <div class="table-responsive">
+            <div class="table-responsive-sm">
               <table class="table table-sm table-borderless">
               {%- assign news = site.news | reverse -%} 
               {% for item in news limit: site.news_limit %} 
