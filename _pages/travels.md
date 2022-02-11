@@ -10,7 +10,7 @@ nav: true
 <script src="https://www.amcharts.com/lib/3/ammap.js" type="text/javascript"></script>
 <script src="https://www.amcharts.com/lib/3/maps/js/worldHigh.js" type="text/javascript"></script>
 <script src="https://www.amcharts.com/lib/3/themes/dark.js" type="text/javascript"></script>
-<div id="mapdiv" style="width: 775px; height: 450px;"></div>
+<div class="video-container" id="mapdiv" style="max-width: 775px; max-height: 450px;"></div>
 <script type="text/javascript">
 var map = AmCharts.makeChart("mapdiv",{
 type: "map",
