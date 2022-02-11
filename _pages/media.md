@@ -29,7 +29,6 @@ nav: true
     </div>
     <h2 class="year">May-2018</h2>
     <div class="col-sm-10">  
-    <div class="video-container">
     <article class="media content-section">
         <div class="media-body">
             <h5><a class="article-title" href="https://www.sciencedaily.com/releases/2018/05/180507134706.htm">Science Daily: Neuro filter sharpens visual processing</a></h5>
@@ -37,7 +36,6 @@ nav: true
         </div>
         <img class="img-rounded" src="../assets/img/eneuro18.jpg" style="width:200px">
     </article>
-    </div>
     </div>
     <h2 class="year">Dec-2017</h2>
     <div class="col-sm-10">
