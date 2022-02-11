@@ -138,21 +138,21 @@ rollOverOutlineColor : "#000000"
     <div class="carousel-item active">
       <img class="d-block w-100" src="https://drive.google.com/uc?export=view&id=1P18L0gwuy-IGXkzp34rIa6rmN_25Jf_B">
       <div class="carousel-caption d-none d-md-block">
-        <h5>Song Kul Lake, Kygyzstan</h5>
+        <h5>Song Kul Lake, Kyrgyzstan</h5>
         <p></p>
       </div>
     </div>
     <div class="carousel-item">
       <img class="d-block w-100" src="https://drive.google.com/uc?export=view&id=1mep5YGbkh1U_N8lQUnJUXQzNlIqjqEH4">
       <div class="carousel-caption d-none d-md-block">
-        <h5>Song Kul Lake, Kygyzstan</h5>
+        <h5>Song Kul Lake, Kyrgyzstan</h5>
         <p></p>
       </div>
     </div>
     <div class="carousel-item">
       <img class="d-block w-100" src="https://drive.google.com/uc?export=view&id=1j_IQMViWfE18bQVDUwF_F1zkpgS9IRN8" alt="First slide">
       <div class="carousel-caption d-none d-md-block">
-        <h5>Song Kul Lake, Kygyzstan</h5>
+        <h5>Song Kul Lake, Kyrgyzstan</h5>
         <p></p>
       </div>
     </div>
