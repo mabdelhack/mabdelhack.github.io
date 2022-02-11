@@ -38,14 +38,14 @@ layout: default
 
           <div class="row">
 
-            <div class="col-8">
+            <div class="col-md-8 row-sm">
               {% if page.news -%}
               <!-- News -->
               {%- include news.html %}
               {%- endif %}
 
             </div>
-            <div class="col-4">
+            <div class="col-md-4 row-sm">
               <a id="twitter" class="twitter-timeline" data-width="500" data-height="400" href="https://twitter.com/{{ site.twitter_username }}?ref_src=twsrc%5Etfw">Tweets by {{ site.twitter_username }}</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
             </div>
           </div>
