@@ -6,11 +6,12 @@ description:
 nav: true
 ---
 <div class="publications">
-<h2 class="year">Apr-2022</h2>
+    <h2 class="year">Apr-2022</h2>
     <div class="col-sm-10">
     <h2 class="title">Computational neuroscience webinar with Egypt Scholars (Arabic)</h2>
     <div class="video-container">
     <iframe width="560" height="315" src="https://www.youtube.com/embed/YAp47MXcFAo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+    </div>
     </div>
     <h2 class="year">Mar-2021</h2>
     <div class="col-sm-10">
