@@ -48,12 +48,14 @@ nav: true
           </div>
           
           <div class="g-recaptcha" data-sitekey="6LcLuw4hAAAAAOU7W4GrEakqXB3_4wCg_xO5Czd4"></div>
-          <button class="btn btn-outline-primary btn-sm g-recaptcha"  role="button" data-sitekey="6LcLuw4hAAAAAOU7W4GrEakqXB3_4wCg_xO5Czd4" data-callback='onSubmit'data-action='submit' type="submit">Send</button>
+          <button class="btn btn-outline-primary btn-sm g-recaptcha"  role="button" data-sitekey="6LcLuw4hAAAAAOU7W4GrEakqXB3_4wCg_xO5Czd4" data-callback='onSubmit' data-action='submit'>Send</button>
     </form>
     
   </div>
   </body>
 </html>
+<script>
 function onSubmit(token) {
-        document.getElementById("contactform").submit();
+        document.getElementById("demo-form").submit();
     }
+</script>
