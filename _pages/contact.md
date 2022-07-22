@@ -50,9 +50,10 @@ nav: true
           <div class="g-recaptcha" data-sitekey="6LcLuw4hAAAAAOU7W4GrEakqXB3_4wCg_xO5Czd4"></div>
           <button class="btn btn-outline-primary btn-sm g-recaptcha"  role="button" data-sitekey="6LcLuw4hAAAAAOU7W4GrEakqXB3_4wCg_xO5Czd4" data-callback='onSubmit'data-action='submit' type="submit">Send</button>
     </form>
-    function onSubmit(token) {
-        document.getElementById("contactform").submit();
-    }
+    
   </div>
   </body>
 </html>
+function onSubmit(token) {
+        document.getElementById("contactform").submit();
+    }
