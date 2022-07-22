@@ -6,6 +6,12 @@ nav: true
 ---
 
 <html>
+  <head>
+  <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <script src="https://www.google.com/recaptcha/api.js"></script>
+  </head>
   <body>
   <p id="thanks"></p>
   
@@ -41,8 +47,12 @@ nav: true
           <textarea rows="5" class="form-control" id="message" placeholder="Message*" name="entry.1141301720" required></textarea>
           </div>
           
-          <button class="btn btn-outline-primary btn-sm"  role="button" type="submit">Send</button>
+          <div class="g-recaptcha" data-sitekey="6LcLuw4hAAAAAOU7W4GrEakqXB3_4wCg_xO5Czd4"></div>
+          <button class="btn btn-outline-primary btn-sm g-recaptcha"  role="button" data-sitekey="6LcLuw4hAAAAAOU7W4GrEakqXB3_4wCg_xO5Czd4" data-callback='onSubmit'data-action='submit' type="submit">Send</button>
     </form>
+    function onSubmit(token) {
+        document.getElementById("contactform").submit();
+    }
   </div>
   </body>
 </html>
