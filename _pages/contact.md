@@ -47,8 +47,8 @@ nav: true
           <textarea rows="5" class="form-control" id="message" placeholder="Message*" name="entry.1141301720" required></textarea>
           </div>
           
-          <div class="g-recaptcha" data-sitekey="6LcLuw4hAAAAAOU7W4GrEakqXB3_4wCg_xO5Czd4"></div>
-          <button class="btn btn-outline-primary btn-sm g-recaptcha"  role="button" data-sitekey="6LcLuw4hAAAAAOU7W4GrEakqXB3_4wCg_xO5Czd4" data-callback='onSubmit' data-action='submit'>Send</button>
+          <div class="g-recaptcha" data-sitekey="6LfI1g4hAAAAAIGrAqaKTS04mSlpGfpxJ1p2Hdob"></div>
+          <button class="btn btn-outline-primary btn-sm g-recaptcha"  role="button" data-sitekey="6LfI1g4hAAAAAIGrAqaKTS04mSlpGfpxJ1p2Hdob" data-callback='onSubmit' data-action='submit'>Send</button>
     </form>
     
   </div>
