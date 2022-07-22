@@ -10,7 +10,12 @@ nav: true
   <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <script src="https://www.google.com/recaptcha/api.js"></script>
+  <script src="https://www.google.com/recaptcha/api.js" async defer></script>
+     <script>
+       function onSubmit(token) {
+         document.getElementById("contactform").submit();
+       }
+     </script>
   </head>
   <body>
   <p id="thanks"></p>
@@ -47,15 +52,9 @@ nav: true
           <textarea rows="5" class="form-control" id="message" placeholder="Message*" name="entry.1141301720" required></textarea>
           </div>
           
-          <div class="g-recaptcha" data-sitekey="6LfI1g4hAAAAAIGrAqaKTS04mSlpGfpxJ1p2Hdob"></div>
-          <button class="btn btn-outline-primary btn-sm g-recaptcha"  role="button" data-sitekey="6LfI1g4hAAAAAIGrAqaKTS04mSlpGfpxJ1p2Hdob" data-callback='onSubmit' data-action='submit'>Send</button>
+          <button class="g-recaptcha btn btn-outline-primary btn-sm"  role="button" data-sitekey="6LfI1g4hAAAAAIGrAqaKTS04mSlpGfpxJ1p2Hdob" data-callback='onSubmit'>Send</button>
     </form>
     
   </div>
   </body>
 </html>
-<script>
-function onSubmit(token) {
-        document.getElementById("demo-form").submit();
-    }
-</script>
