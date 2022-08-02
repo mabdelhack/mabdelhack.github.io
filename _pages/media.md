@@ -8,6 +8,13 @@ nav: true
 <div class="publications">
     <h2 class="year">Jul-2022</h2>
     <div class="col-sm-10">
+    <h2 class="title"><a href="https://www.instagram.com/phd_the_philosophical_drama/">PhD - The Philosophical Drama</a>, Cultivating Community</h2>
+    <div class="video-container">
+    <iframe width="560" height="315" src="https://www.youtube.com/embed/x_DocxnZuQs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+    </div>
+    </div>
+    
+    <div class="col-sm-10">
     <h2 class="title"><a href="https://www.simplyneuroscience.org/simplyneurocon2022">Simply Neurocon Conference 2022</a>, What can human and computer vision reveal to us about brain health?</h2>
     <div class="video-container">
     <iframe width="560" height="315" src="https://www.youtube.com/embed/xaTNwNxrDo0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
