@@ -14,6 +14,7 @@ nav: true
     </div>
     </div>
     
+    <h2 class="year">Jul-2022</h2>
     <div class="col-sm-10">
     <h2 class="title"><a href="https://www.simplyneuroscience.org/simplyneurocon2022">Simply Neurocon Conference 2022</a>, What can human and computer vision reveal to us about brain health?</h2>
     <div class="video-container">
