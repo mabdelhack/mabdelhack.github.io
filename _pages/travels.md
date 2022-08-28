@@ -32,6 +32,10 @@ areas :
 "showAsSelected": true
 },
 {
+"id": "ZA",
+"showAsSelected": true
+},
+{
 "id": "DE",
 "showAsSelected": true
 },
