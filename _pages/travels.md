@@ -223,6 +223,13 @@ rollOverOutlineColor : "#000000"
         <p></p>
       </div>
     </div>
+    <div class="carousel-item">
+      <img class="d-block w-100" src="https://drive.google.com/uc?export=view&id=1DPZvhxZxPYRwWHNNc8iWLuQDq09mwUhW" alt="First slide">
+      <div class="carousel-caption d-none d-md-block">
+        <h5>Cape Town, South Africa</h5>
+        <p></p>
+      </div>
+    </div>
   </div>
   <a class="carousel-control-prev" href="#carouselExampleIndicators" role="button" data-slide="prev">
     <span class="carousel-control-prev-icon" aria-hidden="true"></span>
