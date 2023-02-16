@@ -10,7 +10,7 @@ nav: true
     <div class="col-sm-10">
     <h2 class="title"><a href="https://www.main2022.org/">MAIN 2022</a> Panel Discussion: Future of Neuro-AI through the lens of early career researchers</h2>
     <div class="video-container">
-    <iframe width="560" height="315" src="https://youtu.be/Zb-I1qxUFjQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+    <iframe width="560" height="315" src="https://www.youtube.com/embed/Zb-I1qxUFjQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
     </div>
     </div>
 
