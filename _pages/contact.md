@@ -48,6 +48,7 @@ nav: true
           <button class="btn btn-outline-primary btn-sm" type="submit" role="button">Send</button>
     </form>
     
+    You can also shoot me an email mohamed.abdelhack.37a[at]kyoto-u.jp
   </div>
   </body>
 </html>
