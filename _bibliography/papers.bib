@@ -1,5 +1,26 @@
 ---
 ---
+@article{TRIPATHI2024104602,
+
+  abbr={Open Access},
+title = {Multi-view representation learning for tabular data integration using inter-feature relationships},
+journal = {Journal of Biomedical Informatics},
+pages = {104602},
+year = {2024},
+issn = {1532-0464},
+doi = {https://doi.org/10.1016/j.jbi.2024.104602},
+url = {https://www.sciencedirect.com/science/article/pii/S1532046424000200},
+author = {Sandhya Tripathi and Bradley A. Fritz and Mohamed Abdelhack and Michael S. Avidan and Yixin Chen and Christopher R. King},
+keywords = {Schema matching, Electronic health records, Contrastive learning, Fingerprints, Partial autoencoders},
+abstract = {Objective:
+An applied problem facing all areas of data science is harmonizing data sources. Joining data from multiple origins with unmapped and only partially overlapping features is a prerequisite to developing and testing robust, generalizable algorithms, especially in healthcare. This integrating is usually resolved using meta-data such as feature names, which may be unavailable or ambiguous. Our goal is to design methods that create a mapping between structured tabular datasets derived from electronic health records independent of meta-data.
+Methods:
+We evaluate methods in the challenging case of numeric features without reliable and distinctive univariate summaries, such as nearly Gaussian and binary features. We assume that a small set of features are a priori mapped between two datasets, which share unknown identical features and possibly many unrelated features. Inter-feature relationships are the main source of identification which we expect. We compare the performance of contrastive learning methods for feature representations, novel partial auto-encoders, mutual-information graph optimizers, and simple statistical baselines on simulated data, public datasets, the MIMIC-III medical-record changeover, and perioperative records from before and after a medical-record system change. Performance was evaluated using both mapping of identical features and reconstruction accuracy of examples in the format of the other dataset.
+Results:
+Contrastive learning-based methods overall performed the best, often substantially beating the literature baseline in matching and reconstruction, especially in the more challenging real data experiments. Partial auto-encoder methods showed on-par matching with contrastive methods in all synthetic and some real datasets, along with good reconstruction. However, the statistical method we created performed reasonably well in many cases, with much less dependence on hyperparameter tuning. When validating feature match output in the EHR dataset we found that some mistakes were actually a surrogate or related feature as reviewed by two subject matter experts.
+Conclusion:
+In simulation studies and real-world examples, we find that inter-feature relationships are effective at identifying matching or closely related features across tabular datasets when meta-data is not available. Decoder architectures are also reasonably effective at imputing features without an exact match.}
+}
 
 @article{abdelhack202305,
   abbr={Open Access},
