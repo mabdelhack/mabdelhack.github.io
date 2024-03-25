@@ -6,7 +6,7 @@ description:
 nav: true
 ---
 <div class="publications">
-    <h2 class="year">Dec-2022</h2>
+    <h2 class="bibliography">Dec-2022</h2>
     <div class="col-sm-10">
     <h2 class="title"><a href="https://www.main2022.org/">MAIN 2022</a> Panel Discussion: Future of Neuro-AI through the lens of early career researchers</h2>
     <div class="video-container">
@@ -14,7 +14,7 @@ nav: true
     </div>
     </div>
 
-    <h2 class="year">Jul-2022</h2>
+    <h2 class="bibliography">Jul-2022</h2>
     <div class="col-sm-10">
     <h2 class="title"><a href="https://www.instagram.com/phd_the_philosophical_drama/">PhD - The Philosophical Drama</a>, Cultivating Community</h2>
     <div class="video-container">
@@ -22,7 +22,7 @@ nav: true
     </div>
     </div>
     
-    <h2 class="year">Jul-2022</h2>
+    <h2 class="bibliography">Jul-2022</h2>
     <div class="col-sm-10">
     <h2 class="title"><a href="https://www.simplyneuroscience.org/simplyneurocon2022">Simply Neurocon Conference 2022</a>, What can human and computer vision reveal to us about brain health?</h2>
     <div class="video-container">
@@ -30,7 +30,7 @@ nav: true
     </div>
     </div>
     
-    <h2 class="year">Apr-2022</h2>
+    <h2 class="bibliography">Apr-2022</h2>
     <div class="col-sm-10">
     <h2 class="title"><a href="https://egyptscholars.org/">Egypt Scholars</a> webinar: Computational Neuroscience (Arabic)</h2>
     <div class="video-container">
@@ -38,7 +38,7 @@ nav: true
     </div>
     </div>
     
-    <h2 class="year">Mar-2021</h2>
+    <h2 class="bibliography">Mar-2021</h2>
     <div class="col-sm-10">
     <h2 class="title">Careers in Neuroscience Panel Discussion (Arabic)</h2>
     <div class="video-container">
@@ -46,7 +46,7 @@ nav: true
     </div>
     </div>
     
-    <h2 class="year">Dec-2020</h2>
+    <h2 class="bibliography">Dec-2020</h2>
     <div class="col-sm-10">
     <h2 class="title"><a href="https://sonafrica.org/">SONA</a> webinar: Top-down modulation in human visual cortex</h2>
     <div class="video-container">
@@ -54,7 +54,7 @@ nav: true
     </div>
     </div>
     
-    <h2 class="year">Nov-2020</h2>
+    <h2 class="bibliography">Nov-2020</h2>
     <div class="col-sm-10">
     <h2 class="title">Postdocs Go Live by <a href="https://sites.wustl.edu/wupostdocsociety/">WUPS</a></h2>
     <div class="video-container">
@@ -62,7 +62,7 @@ nav: true
     </div>
     </div>
     
-    <h2 class="year">May-2018</h2>
+    <h2 class="bibliography">May-2018</h2>
     <div class="col-sm-10">  
     <article class="media content-section">
         <div class="media-body">
@@ -73,7 +73,7 @@ nav: true
     </article>
     </div>
     
-    <h2 class="year">Dec-2017</h2>
+    <h2 class="bibliography">Dec-2017</h2>
     <div class="col-sm-10">
     <h2 class="title">Egypt Scholars Talk: Scholarships and opportunities in Japan (Arabic)</h2>
     <div class="video-container">
@@ -81,7 +81,7 @@ nav: true
     </div>
     </div>
     
-    <h2 class="year">Oct-2016</h2>
+    <h2 class="bibliography">Oct-2016</h2>
     <div class="col-sm-10">
     <h2 class="title">TEDx talk: Conscious food choices for everyone</h2>
     <div class="video-container">

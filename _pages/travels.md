@@ -10,7 +10,7 @@ nav: true
 <script src="https://www.amcharts.com/lib/3/ammap.js" type="text/javascript"></script>
 <script src="https://www.amcharts.com/lib/3/maps/js/worldHigh.js" type="text/javascript"></script>
 <script src="https://www.amcharts.com/lib/3/themes/dark.js" type="text/javascript"></script>
-<div class="video-container" id="mapdiv" style="max-width: 775px; max-height: 450px;"></div>
+<div id="mapdiv" style="width: 775px; height: 450px;"></div>
 <script type="text/javascript">
 var map = AmCharts.makeChart("mapdiv",{
 type: "map",
@@ -27,86 +27,86 @@ map : "worldHigh",
 getAreasFromMap : true,
 areas :
 [
-{
-"id": "CZ",
-"showAsSelected": true
-},
-{
-"id": "ZA",
-"showAsSelected": true
-},
-{
-"id": "DE",
-"showAsSelected": true
-},
-{
-"id": "RU",
-"showAsSelected": true
-},
-{
-"id": "TR",
-"showAsSelected": true
-},
-{
-"id": "CA",
-"showAsSelected": true
-},
-{
-"id": "US",
-"showAsSelected": true
-},
-{
-"id": "EG",
-"showAsSelected": true
-},
-{
-"id": "TN",
-"showAsSelected": true
-},
-{
-"id": "CN",
-"showAsSelected": true
-},
-{
-"id": "HK",
-"showAsSelected": true
-},
-{
-"id": "JP",
-"showAsSelected": true
-},
-{
-"id": "KG",
-"showAsSelected": true
-},
-{
-"id": "MV",
-"showAsSelected": true
-},
-{
-"id": "QA",
-"showAsSelected": true
-},
-{
-"id": "SA",
-"showAsSelected": true
-},
-{
-"id": "KR",
-"showAsSelected": true
-},
-{
-"id": "TJ",
-"showAsSelected": true
-},
-{
-"id": "UZ",
-"showAsSelected": true
-},
-{
-"id": "VN",
-"showAsSelected": true
-}
+	{
+		"id": "CZ",
+		"showAsSelected": true
+	},
+	{
+		"id": "DE",
+		"showAsSelected": true
+	},
+	{
+		"id": "RU",
+		"showAsSelected": true
+	},
+	{
+		"id": "TR",
+		"showAsSelected": true
+	},
+	{
+		"id": "CA",
+		"showAsSelected": true
+	},
+	{
+		"id": "US",
+		"showAsSelected": true
+	},
+	{
+		"id": "EG",
+		"showAsSelected": true
+	},
+	{
+		"id": "ZA",
+		"showAsSelected": true
+	},
+	{
+		"id": "TN",
+		"showAsSelected": true
+	},
+	{
+		"id": "CN",
+		"showAsSelected": true
+	},
+	{
+		"id": "HK",
+		"showAsSelected": true
+	},
+	{
+		"id": "JP",
+		"showAsSelected": true
+	},
+	{
+		"id": "KG",
+		"showAsSelected": true
+	},
+	{
+		"id": "MV",
+		"showAsSelected": true
+	},
+	{
+		"id": "QA",
+		"showAsSelected": true
+	},
+	{
+		"id": "SA",
+		"showAsSelected": true
+	},
+	{
+		"id": "KR",
+		"showAsSelected": true
+	},
+	{
+		"id": "TJ",
+		"showAsSelected": true
+	},
+	{
+		"id": "UZ",
+		"showAsSelected": true
+	},
+	{
+		"id": "VN",
+		"showAsSelected": true
+	}
 ]
 },
 areasSettings : {
@@ -120,6 +120,7 @@ rollOverOutlineColor : "#000000"
 }
 });
 </script>
+
 
 
 <h2 class="category">photos</h2>
