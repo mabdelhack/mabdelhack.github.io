@@ -26,5 +26,3 @@ Originally from Alexandria, Egypt, I left as an electrical engineer in 2012 and 
 When I'm not sciencing, I am either reading, playing sports (currently interested in calisthenics and bouldering but these can change anytime), <a href='travel'>travelling</a> (visas permitting), walking and listening to music, or searching for a new fun activity.
 
 I also appreciate a good conversation about politics, human rights, history, philosophy, and geography. In a parallel universe (or alternate timeline), I'm a news reporter covering hot events live from the field. I'm a pan-Arab, pan-African, and pan-World (if that's a thing). When it comes to food, I'm very politically incorrect and biased so ask me at your own risk.
-
-
