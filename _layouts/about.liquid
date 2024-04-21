@@ -51,7 +51,17 @@ layout: default
         {% include news.liquid limit=true %}
       </div>
       <div class="col-md-4 row-sm">
-        <a class="twitter-timeline" data-width="500" data-height="400" href="https://twitter.com/mabdelhack?ref_src=twsrc%5Etfw">Tweets by mabdelhack</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+        <div class="card">
+          <img src="assets/img/ain_logo.png" alt="Avatar" style="width:100%">
+          <div>
+            <p></p>
+            <div class="d-grid gap-2 mx-auto">
+              &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<button class="w-75 p-3 btn btn-success" onclick="window.open('https://www.arabsinneuro.org/about/');">About</button>
+              &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<button class="w-75 btn btn-success" onclick="window.open('https://www.arabsinneuro.org/school/');">Summer School</button>
+              &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<button class="w-75 btn btn-success" onclick="window.open('https://www.arabsinneuro.org/donate/');">Donate</button>
+            </div>
+          </div>
+        </div>
       </div>
     </div>
     {% endif %}
