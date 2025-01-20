@@ -106,6 +106,14 @@ areas :
 	{
 		"id": "VN",
 		"showAsSelected": true
+	},
+	{
+		"id": "AE",
+		"showAsSelected": true
+	},
+	{
+		"id": "MA",
+		"showAsSelected": true
 	}
 ]
 },
