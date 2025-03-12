@@ -6,7 +6,7 @@ description:
 nav: true
 ---
 <div class="publications">
-    <h2 class="bibliography">Apr-2024</h2>
+    <h2 class="bibliography">Jan-2025</h2>
     <div class="col-sm-10">
     <h2 class="title">Deciphering Neural Dynamics of Symptoms of Mental Health Using Machine Learning and Neuroinformatics (Arabic)</h2>
     <div class="video-container">
