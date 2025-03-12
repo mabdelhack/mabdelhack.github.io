@@ -8,6 +8,13 @@ nav: true
 <div class="publications">
     <h2 class="bibliography">Apr-2024</h2>
     <div class="col-sm-10">
+    <h2 class="title">Deciphering Neural Dynamics of Symptoms of Mental Health Using Machine Learning and Neuroinformatics (Arabic)</h2>
+    <div class="video-container">
+    <iframe width="560" height="315" src="https://www.youtube.com/embed/_GHouLwvCwQ?si=AFoLRCmlwuz49DRg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+    </div>
+    </div>
+
+    <div class="col-sm-10">
     <h2 class="title">The Brainy Bain Podcast: Between the Computer and the Brain (Arabic)</h2>
     <div class="video-container">
     <iframe width="560" height="315" src="https://www.youtube.com/embed/rqoVazrLThI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
