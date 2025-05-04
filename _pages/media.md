@@ -6,6 +6,13 @@ description:
 nav: true
 ---
 <div class="publications">
+    <h2 class="bibliography">Apr-2025</h2>
+    <div class="col-sm-10">
+    <h2 class="title">Deciphering Neural Dynamics of Symptoms of Mental Health Using Machine Learning and Neuroinformatics (Arabic)</h2>
+    <div class="video-container">
+    <iframe src="https://player.vimeo.com/video/1079260875?h=1eea6c9be2#t=69s" width="640" height="360" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>    </div>
+    </div>
+
     <h2 class="bibliography">Jan-2025</h2>
     <div class="col-sm-10">
     <h2 class="title">Deciphering Neural Dynamics of Symptoms of Mental Health Using Machine Learning and Neuroinformatics (Arabic)</h2>
