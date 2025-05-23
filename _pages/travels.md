@@ -114,6 +114,18 @@ areas :
 	{
 		"id": "MA",
 		"showAsSelected": true
+	},
+    {
+		"id": "BE",
+		"showAsSelected": true
+	},
+    {
+		"id": "FR",
+		"showAsSelected": true
+	},
+    {
+		"id": "SP",
+		"showAsSelected": true
 	}
 ]
 },
