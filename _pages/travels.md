@@ -126,6 +126,10 @@ areas :
     {
 		"id": "ES",
 		"showAsSelected": true
+	},
+    {
+		"id": "AU",
+		"showAsSelected": true
 	}
 ]
 },
