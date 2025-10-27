@@ -1,7 +1,7 @@
 ---
 layout: post
-date: 2025-10-3
+date: 2025-10-13
 inline: true
 ---
 
-I gave an invited lecture at the Department of Biomedical Engineering, University of Toronto.
+I ran the Ibn Sina Neurotech Autumn School hosted by the NYUAD Center for Brain and Health in Abu Dhabi, UAE.

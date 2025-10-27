@@ -1,7 +1,7 @@
 ---
 layout: post
-date: 2025-9-24
+date: 2025-10-3
 inline: true
 ---
 
-I presented a poster titled "Longitudinal co-trajectories of neural dynamics underlying sleep and depression" at the Neuronto Research Symposium, Toronto, Canada.
+I gave an invited lecture at the Department of Biomedical Engineering, University of Toronto.

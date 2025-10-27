@@ -1,7 +1,7 @@
 ---
 layout: post
-date: 2025-9-29
+date: 2025-9-1
 inline: true
 ---
 
-I participated in a panel discussion on the use of AI in healthcare at the KCNI Open House 2025.
+I ran another iteration of the Introduction to Computational Neuroscience Summer Course as a part of Arabs in Neuroscience.
