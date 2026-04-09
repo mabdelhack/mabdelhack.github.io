@@ -28,6 +28,18 @@ getAreasFromMap : true,
 areas :
 [
 	{
+		"id": "SE",
+		"showAsSelected": true
+	},
+    {
+		"id": "DK",
+		"showAsSelected": true
+	},
+    {
+		"id": "PT",
+		"showAsSelected": true
+	},
+    {
 		"id": "CZ",
 		"showAsSelected": true
 	},
