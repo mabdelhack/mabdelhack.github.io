@@ -27,6 +27,10 @@ map : "worldHigh",
 getAreasFromMap : true,
 areas :
 [
+    {
+		"id": "AT",
+		"showAsSelected": true
+	},
 	{
 		"id": "SE",
 		"showAsSelected": true
